@@ -31,5 +31,5 @@ import close from "./close.svg"
 import menue from "./menu.svg"
 import logo from "./logo.png"
 import v12 from "./navve.png"
-import cardimg from "./groupcards.png"
+import cardimg from "./Groupcards.png"
 export {arrow,girl,blo1,blo2,blo3,blo4,co1,co2,co3,co4,co5,co6,getimg,heroimg,imgbtn,v1,v2,v3,v4,v5,v6,v7,v8,v9,v10,v11,v12,menue,close,logo,cardimg,frame,fram2 , fram3}
